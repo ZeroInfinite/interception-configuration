@@ -1,15 +1,15 @@
 <Project>
 
   <PropertyGroup>
-    <Version>5.0.7</Version>
-    <PackageReleaseNotes>This package is compatible with .NET 4.5, and 4.7 frameworks.</PackageReleaseNotes>
+    <Version>5.1.7</Version>
+    <PackageReleaseNotes>This package is compatible with .NET 4.5, 4.6, and 4.7 frameworks.</PackageReleaseNotes>
   </PropertyGroup>
 
   <PropertyGroup>
-    <UnityAbstractionsVersion>2.3.*</UnityAbstractionsVersion>
-    <UnityContainerVersion>5.3.*</UnityContainerVersion>
-    <UnityInterceptionVersion>5.0.*</UnityInterceptionVersion>
-    <UnityConfigurationVersion>5.0.*</UnityConfigurationVersion>
+    <UnityAbstractionsVersion>3.*</UnityAbstractionsVersion>
+    <UnityContainerVersion>5.8.*</UnityContainerVersion>
+    <UnityInterceptionVersion>5.*</UnityInterceptionVersion>
+    <UnityConfigurationVersion>5.*</UnityConfigurationVersion>
   </PropertyGroup>
 
 </Project>
